@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nimport Layout from \"../components/Layout.js\";\nimport Product from \"../components/Product.js\";\nexport default function About() {\n  return React.createElement(Layout, null, React.createElement(Product, null));\n}","map":null,"metadata":{},"sourceType":"module"}
